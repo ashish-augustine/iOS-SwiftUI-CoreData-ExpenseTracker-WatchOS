@@ -2,8 +2,8 @@
 //  CategoryImageView.swift
 //  ExpenseTrackerWatchOS WatchKit Extension
 //
-//  Created by Alfian Losari on 08/05/20.
-//  Copyright © 2020 Alfian Losari. All rights reserved.
+//  Created by Ashish Augustine on 08/05/20.
+//  Copyright © 2020 Ashish Augustine. All rights reserved.
 //
 
 import SwiftUI
