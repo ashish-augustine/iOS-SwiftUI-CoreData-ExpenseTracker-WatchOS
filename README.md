@@ -1,7 +1,6 @@
 # Building Expense Tracker Apple Watch App with SwiftUI & Core Data
 
 ![Alt text](./promo.png?raw=true "Building Expense Tracker Apple Watch App with SwiftUI & Core Data")
-Follow the tutorial at [alfianlosari.com](https://alfianlosari.com/posts/building-expense-tracker-apple-watch-app-with-swiftui-core-data/ "Xcoding with Alfian Blog")
 
 ## Features
 * watchOS, iOS, & macOS targets
@@ -22,4 +21,4 @@ Follow the tutorial at [alfianlosari.com](https://alfianlosari.com/posts/buildin
 - Provide your own App/Bundle ID
 - Provide your own iCloud Container id in Signing and Capabilities Tab
 - Build and Run
-# ExpenseTrackerWatchOS-master
+# ExpenseTrackerWatchOS
