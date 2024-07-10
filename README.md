@@ -1,4 +1,4 @@
-# Building Expense Tracker Apple Watch App with SwiftUI & Core Data
+# Expense Tracker Apple Watch App with SwiftUI & Core Data
 
 ![Alt text](./promo.png?raw=true "Building Expense Tracker Apple Watch App with SwiftUI & Core Data")
 
