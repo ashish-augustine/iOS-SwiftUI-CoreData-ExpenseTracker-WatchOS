@@ -1,5 +1,5 @@
-# Expense Tracker Apple Watch App with SwiftUI & Core Data
-
+# Expense Tracker Apple Watch App  
+This is an iOS Watch app for tracking Expenses, built using SwiftUI & Core Data 
 ## Features
 * watchOS, iOS, & macOS targets
 * Core Data CloudKit syncing accross devices
