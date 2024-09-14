@@ -11,14 +11,4 @@
 * Sort expenses by date or amount in the order of descending or ascending.
 * Display dashboard of total expense sum for all and each categories as well as displaying distribution of each categories using a pie chart.
 * Export expense log to CSV file (macOS only)
-
-## Requirements
-- Xcode 11.4
-- Apple Developer Account
-
-## Getting Started
-- Clone or download
-- Provide your own App/Bundle ID
-- Provide your own iCloud Container id in Signing and Capabilities Tab
-- Build and Run
-# ExpenseTrackerWatchOS
+ 
